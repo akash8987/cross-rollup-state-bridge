@@ -1,0 +1,12 @@
+{
+  "name": "cross-rollup-state-bridge",
+  "version": "1.0.0",
+  "description": "High-performance cross-L2 storage proof verifier",
+  "main": "relayer.js",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "ethers": "^6.13.0",
+    "eth-proof": "^3.0.1",
+    "dotenv": "^16.4.5"
+  }
+}
